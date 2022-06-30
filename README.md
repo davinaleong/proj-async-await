@@ -2,4 +2,4 @@
 
 A project for me to learn `async-await` syntax in `JavaScript`.
 
-Demo link coming soon.
+Demo link [here](https://davinaleong.github.io/proj-async-await/).
